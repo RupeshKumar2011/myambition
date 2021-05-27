@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+
+body{
+    font-family: 'Odibee Sans', cursive;
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+    color: crimson;
+    font-size: 50px;
+    padding: 10px;
+}
+
+h2{
+    color: blue;
+    padding: 10px;
+}
+
+p{
+    padding: 10px;
+    font-size: 20px;
+}
+
+img{
+border: 5px solid black;
+border-radius: 5px;
+}
+
+#avtar{
+    width: 300px;
+    height: 300px;
+}
+
+#ambition{
+    width: 500px;
+    height: 350px;
+}
